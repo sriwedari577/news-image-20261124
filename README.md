@@ -13,7 +13,7 @@ encoder.
 
 [![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 [![make.fun rank](https://make.fun/badge/news-image-20261124/sriwedari577/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard)
-[![make.fun reward](https://make.fun/badge/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124)
+[![make.fun reward](https://make.fun/badge/news-image-20261124/sriwedari577/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124)
 
 ## Run
 
